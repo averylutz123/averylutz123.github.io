@@ -1,12 +1,11 @@
 ## Avery's ePortfolio
 
-You can use the [editor on GitHub](https://github.com/averylutz123/averylutz123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Avery's ePortfolio! This ePortfolio contains content related to the enhancement of three computer programs I have developed during my studies at Southern New Hampshire University. These enhancements focus on improvements in software design and engineering, data structures and algorithms, and database management.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Informal Code Review.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this informal code review, three distinct program artifacts are examined and critiqued in terms of their current functionality. The code for each artifact is analyzed in detail and then the planned enhancement for each program is discussed. This code review has been completed for the CS-499 Capstone Project ePortfolio for SNHU's Computer Science program.
+[Avery's Code Review](https://www.youtube.com/watch?v=6nJdgMT_BmY).
 
 ```markdown
 Syntax highlighted code block
