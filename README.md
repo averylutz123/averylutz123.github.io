@@ -20,8 +20,11 @@ Please click the provided link to view: [Avery's Code Review](https://www.youtub
 ## 3. Artifact One: Software Design and Engineering
 
 ### Links
-Click here if you would like to view the **original C++ program** prior to enhancment: [LCR Original Code](https://github.com/averylutz123/Artifact_One_Original).
-Click here if you would like to view the **enhanced artifact one program** that represents skills in software design and engineering:
+To see the drastic improvements that have been made to the quality of the Left Center Right program, it may be beneficial for some to compare the original version of the program and the final program enhancements. The project has seen significant upgrades in terms of visual appeal, interactive components, and communications with the user. Therefore, both the original code and enhanced program are linked below.
+ 
+Click to view the **original C++ program** prior to enhancment: [LCR Original Code](https://github.com/averylutz123/Artifact_One_Original).
+
+Clickto view the **enhanced artifact one program** that represents skills in software design and engineering:
 
 
 ### Artifact Description
