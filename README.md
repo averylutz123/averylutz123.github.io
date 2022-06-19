@@ -19,6 +19,11 @@ Please click the provided link to view: [Avery's Code Review](https://www.youtub
 
 ## 3. Artifact One: Software Design and Engineering
 
+### Links
+Click here if you would like to view the **original C++ program** prior to enhancment: [LCR Original Code](https://github.com/averylutz123/Artifact_One_Original).
+Click here if you would like to view the **enhanced artifact one program** that represents skills in software design and engineering:
+
+
 ### Artifact Description
 The artifact that has been selected to represent skills in software design and engineering was derived from the final project that was created within IT-312: Software Development with C++.Net titled Final Project 7-1: Dice Game. Originally developed in February of 2022, this program showcases a fully functional text-based game named Left Center Right (LCR) in which users take turns “rolling the dice” to see who can obtain and maintain the greatest number of gameplay chips. In order for the program to achieve total functionality, ten unique methods were utilized to distinguish the different gameplay mechanics such as rolling the dice and passing the chips. Additionally, three classes were implemented to represent the program components that were associated with the player, dice options, and game features. Because the contents of the LCR game prior to the artifact’s enhancements were confined to the text dialog within the console output, the program ensured that any potential user input was accounted for so that the game could appropriately communicate no matter what the user entered.  
 	
