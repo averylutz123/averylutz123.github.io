@@ -20,7 +20,7 @@ Please click the provided link to view: [Avery's Code Review](https://www.youtub
 ## 3. Artifact One: Software Design and Engineering
 
 ### Artifact One Links
-To see the drastic improvements that have been made to the quality of the Left Center Right program, it may be beneficial for some to compare the original version of the program and the final program enhancements. The project has seen significant upgrades in terms of visual appeal, interactive components, and communications with the user. Therefore, both the original code and enhanced program are linked below.
+To see the drastic improvements that have been made to the quality of the artifact one program, it may be beneficial for some to compare the original version of the program and the final program enhancements. The project has seen significant upgrades in terms of visual appeal, interactive components, and communications with the user. Therefore, both the original code and enhanced program are linked below.
  
 Click to view the **original C++ program** prior to enhancment: [LCR Original Code](https://github.com/averylutz123/Artifact_One_Original).
 
@@ -68,8 +68,14 @@ The biggest challenge that I faced while developing this artifact was relearning
 The feedback for this artifact with its original submission was to improve the manner in which I discuss the course outcomes within the narrative. Specifically, I originally mentioned that I met all objectives, but I needed to identify and articulate which outcomes I met within the enhancement. Therefore, I changed the formatting of my narrative to specifically discuss how the artifact was improved in terms of the main skill that was exhibited: using well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I created a clear header for this section of my narrative titled “Demonstrated Skills and Abilities,” and stated the skill at the beginning of the first paragraph. I also incorporated some of the indicators of success to ensure my accomplishments were more obvious. 
 
 
-
 ## 4. Artifact Two: Data Structures and Algorithms
+
+### Artifact Two Links
+Throughout the enhancement of artifact two, significant improvements were made in program functionality, code readability, and user engagement. Therefore, it may be beneficial to review the original contents of artifact two in order to truly vizualize the strides that were made in strengthening the program's overall quality and efficiency. Both links to the original version of artifact two as well as the enhancement are linked below.
+
+Click to view the **original data structure portfolio** prior to enhancment: [Data Structure Original](https://github.com/averylutz123/Artifact_Two_Original).
+
+Click to view the **enhanced artifact two program** that represents skills in data structures and algorithms: [Artifact Two: Data Structure Enhancements](https://github.com/averylutz123/Artifact_One_Enhancement).
 
 ### Artifact Description
 The program that was selected to represent artifact two within the series of enhancements that were completed for this portfolio was the 7-1 Final Project Portfolio from CS-260: Data Structures and Algorithms. Originally developed in February of 2020, this C++ portfolio features four separate programs that highlight the main differences and benefits of some of the most commonly utilized data structures. Binary search trees, hash tables, linked lists, and vectors are each implemented in their own distinct programs where they allow users to navigate through two Microsoft Excel files that contain information pertaining to the bidding statistics of items that were submitted during an auction of property. These programs allowed users to select from a menu of options in which they could originally display the bids, search for a specific bid, or remove bids after the contents of the Excel file had been read. Additionally, the vector sorting program allowed users to complete a quick sort or selection sort in order to place the list of auction items in alphabetical order. Although the goals of the four portfolio programs were similar in terms of their intended purposes, due to the differences in the implemented data structures and algorithms, each program utilized unique techniques to obtain total functionality. 
