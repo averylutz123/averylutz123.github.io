@@ -120,11 +120,25 @@ Completing the enhancements to this artifact also gave me a better understanding
 After submitting the first version of artifact two’s enhancements, I received feedback regarding the quality of my narrative. Specifically, I was asked to remove any “I believe” and “I think” statements. With the completion of the final enhancements, my narrative has been improved so that the skills and abilities exhibited throughout my work are discussed in a manner that is confident and unopinionated. Additionally, since the original submission, I made the decision to increase the functionality of the VectorSorting.cpp program to include a “delete bid” feature. This enhancement was not included with in my original plans, however, it seemed necessary to include so that all four programs are cohesive in expectations and style. Additionally, the incorporation of a “delete” feature in the VectorSorting.cpp program ensured all CRUD functionalities existed across all four programs without any exceptions. 
 
 
-
-
-
-
 ## 5. Artifact Three: Databases
+
+### Artifact Description
+In order to demonstrate expertise in the computer science skill of database management, the 7-1 Final Project: Event Tracker from CS-360: Mobile Architecture and Programming was selected as the category’s artifact for enhancement. Developed in December of 2021, this Java mobile application was designed to offer users a platform to store information related to future events they will be attending and notifying the users via text message when a new event was entered into the program’s database. The original functional components of the program included a login screen that ensured users were only accessing events that corresponded to their unique username and password, the ability to edit and delete event information after the event had been saved into the database, and the ability to send an SMS notification if the users granted the program permission to accomplish the task. The success of these functional components heavily relied on the program’s SQLite database which was comprised of three distinct tables that represented the user accounts, the list of events that corresponded to specific user accounts, and information associated with each individual event. Through the implementation of the SQLite database, the program was able to effectively allow multiple users to store the details of events in a uniform location without scrambling the contents of each account.  
+
+### Artifact Justification 
+The CS-360 Event Tracker mobile application was selected as the artifact to represent the category of database enhancements due to the significant role that the SQLite database plays in ensuring complete and correct functionality of the program. Because storing user and event information was foundational to accomplishing the functional goals that were initially set out for the program, the application would not be able to exist without the proper implementation of the database. Therefore, as an incorporation into a portfolio that is intended to showcase vital areas of expertise as a computer science professional, the Event Tracker was undoubtedly the most fitting example of admirable database management capabilities. Furthermore, the original version of the application had broad expectations that left ample room for the integration of innovative and more advanced features. When selecting this artifact to be included within the ePortfolio, it was apparent that the addition of several new features would bring the entirety of the Event Tracker mobile application to a greater professional standard. 
+
+### Demonstrated Skills and Abilities
+Within the artifact three enhancements, the ability to employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science was demonstrated. Within the enhancement of the Event Tracker artifact, existing in-code comments were improved upon in order to provide easily readable and understandable code to those who may examine the program. The original comments left within the program were ill-formatted and did not contain enough details for diverse audiences to understand the contents of the code. Additionally, in some portions of the program, entire methods and Java activities were left uncommented, thus, no context was provided for the features that were being incorporated into the application. Due to the large scale of the program, the lack of comments made it difficult to understand the software design choices that allowed the program to obtain total functionality. To alleviate this issue, comment headers were included at the top of each Java class to summarize the functional components that are presented within the code and to explain how these components are perceived by the users.
+
+The employment of strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science can also be seen in the implementation of the newly created Permissions and Security Questions activities. Now, when creating an account, users are instructed to answer three security questions that can be recalled at a later date to access their account if their password is forgotten. Each question is represented within the database as three columns within the user account table and are recalled in the corresponding Java class as three new variables. The addition of this feature allows users to interact with the program with more confidence as human errors are now accounted for and each account is protected with a heightened level of security. Therefore, a collaborative environment between the users and the program is fostered since the enhancements made to the program’s database support the storage of clean and usable data that can be easily retrieved and presented in a timely fashion.
+
+
+
+
+
+
+
 
 ## 6. ePortfolio Closing Statements
 
