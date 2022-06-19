@@ -133,8 +133,7 @@ Within the artifact three enhancements, the ability to employ strategies for bui
 
 The employment of strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science can also be seen in the implementation of the newly created Permissions and Security Questions activities. Now, when creating an account, users are instructed to answer three security questions that can be recalled at a later date to access their account if their password is forgotten. Each question is represented within the database as three columns within the user account table and are recalled in the corresponding Java class as three new variables. The addition of this feature allows users to interact with the program with more confidence as human errors are now accounted for and each account is protected with a heightened level of security. Therefore, a collaborative environment between the users and the program is fostered since the enhancements made to the program’s database support the storage of clean and usable data that can be easily retrieved and presented in a timely fashion.
 
-
-
+Within the artifact three enhancement, the ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts was showcased. This skill is demonstrated through the incorporation of a notification switch that allows users to determine whether they would like to receive notifications on an individual event basis. While the majority of the Event Tracker application exists in the form of text dialog in order to convey pertinent information back to the user, the implementation of a switch provided an opportunity to diversify the layout of the event information activity and to highlight a predominant feature that the application offers. Additionally, the result of the user’s decision on whether they would like to be notified is then converted to text once all event information has been entered in order to communicate information in a clearer and more stylistically uniform manner. Thus, both visual and written communications were considered with the implementation the notification switch. 
 
 
 
@@ -144,14 +143,3 @@ The employment of strategies for building collaborative environments that enable
 
 
 
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/averylutz123/averylutz123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
