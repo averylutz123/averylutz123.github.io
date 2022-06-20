@@ -3,14 +3,14 @@
 Welcome to Avery's ePortfolio. This ePortfolio contains three enhanced computer programs that I originally developed during my four years in Southern New Hampshire University's computer science program. These enhancements focus on exmeplifying my skills in software design and engineering, data structures and algorithms, and database management. Additionally, this ePortfolio contains an informal narrated code review and a professional self-assesment that discusses my experience in SNHU's computer science program and my artifact selections. Thank you for your time and I hope you enjoy my work.
 
 ## Table of Contents
-1. Proffesional Self-Assesment
+1. Profesional Self-Assesment
 2. Informal Code Review
 3. Artifact One: Software Design and Engineering
 4. Artifact Two: Data Structures and Algorithms
 5. Artifact Three: Databases
 6. ePortfolio Closing Statements
 
-## 1. Proffesional Self-Assesmenet
+## 1. Profesional Self-Assesmenet
 Since my acceptance into Southern New Hampshire University’s computer science program in August of 2018, I have had the privilege of developing over fifty unique applications in five distinct coding languages. Although my experience at SNHU has given me an opportunity to meet many students who were already well established in the field of computer science, the only experience I had writing code prior to joining this program came from an introduction class I took at the former university I attended. Therefore, every single class that I have taken over the past four years has shaped me into a programmer with efficient coding skills and a keen understanding on the importance of documentation. Throughout the completion of my SNHU coursework and during the development of my computer science ePortfolio, I have gained numerous skills that will carry me forward into my future professional endeavors. Being able to make quick yet well calculated decisions, think critically about the overarching functionality of my work, and explain high-level concepts to audiences of varying experience are just three of the skills that will significantly benefit my success in any career that I may choose to pursue. 
 
 With each assignment that I have submitted leading up to the final portfolio, I have been able to effectively showcase my talents as a software developer in terms of the quality and complexity of the work that I deliver. These talents are clearly demonstrated in my capabilities in software design and engineering. In February of 2022, I was tasked with developing a C++ dice game named Left Center Right for the final project of my IT-312: Software Development with C++.Net course. This game was a simple text-based game in which a random number generator was utilized to simulate a rolling die and then an action to correspond with each possible value result was displayed to the user. Throughout the entire IT-312 course, the completion of weekly labs that examined properly declaring data types, implementing basic arithmetic, and reading from text files acted as the foundation to the sills that would be required for the final dice game submission. The completed dice game successfully incorporated three classes to distinguish different mechanics required for the game’s functionality, creative dialog to maintain the user’s engagement, and ten methods that organized the main program components. 
